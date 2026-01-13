@@ -57,17 +57,8 @@
 <a href="https://leetcode.com/AbdelrahmanElsmeay">
   <img src="https://leetcard.jacoblin.cool/AbdelrahmanElsmeay?theme=tokyonight&font=Fira%20Code&ext=heatmap" height="180" alt="LeetCode Stats" />
 </a>
+
 <div align="center">
-
-  <a href="https://github.com/AbdalrahmanAmr">
-    <img src="https://github-readme-stats.vercel.app/api?username=AbdalrahmanAmr&theme=tokyonight&hide_border=false&show_icons=true" height="150" alt="GitHub Stats" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/AbdalrahmanAmr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdalrahmanAmr&theme=tokyonight&hide_border=false&layout=compact&langs_count=6" height="150" alt="Top Languages" />
-  </a>
-
-  <br />
 
   <a href="https://github.com/AbdalrahmanAmr">
     <img src="https://nirzak-streak-stats.vercel.app/?user=AbdalrahmanAmr&theme=tokyonight&hide_border=false" alt="Streak Stats" />
