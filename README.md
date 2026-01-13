@@ -59,18 +59,23 @@
 </a>
 
 <br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=AbdalrahmanAmr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdalrahmanAmr&theme=tokyonight&hide_border=false&layout=compact&langs_count=6" height="170" />
-
-<br/><br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=AbdalrahmanAmr&theme=tokyonight&hide_border=false" />
-<br/>
-</div>
-
-<br/>
 <div align="center">
+
+  <a href="https://github.com/AbdalrahmanAmr">
+    <img src="https://github-readme-stats.vercel.app/api?username=AbdalrahmanAmr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="170" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/AbdalrahmanAmr">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdalrahmanAmr&theme=tokyonight&hide_border=false&layout=compact&langs_count=6" height="170" alt="Top Languages" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/AbdalrahmanAmr">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=AbdalrahmanAmr&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  </a>
+
+  <br/><br/>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdalrahmanAmr&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+
 </div>
