@@ -57,8 +57,6 @@
 <a href="https://leetcode.com/AbdelrahmanElsmeay">
   <img src="https://leetcard.jacoblin.cool/AbdelrahmanElsmeay?theme=tokyonight&font=Fira%20Code&ext=heatmap" height="180" alt="LeetCode Stats" />
 </a>
-
-<br></br>
 <div align="center">
 
   <a href="https://github.com/AbdalrahmanAmr">
